@@ -21,7 +21,3 @@ python3 RateDebate.py --yt_link=https://youtu.be/tYrdMjVXyNg --num_speakers=3
 
 The script will proceed converting the video into .wav, and producing a `transcript.txt`, which will take around the same time as the video length. Before making the API call, a rough estimate of the API cost will be displayed, with the option of proceeding or exiting.
 
-
-
-
-
